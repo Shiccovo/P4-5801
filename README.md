@@ -5,6 +5,13 @@ Welcome to the **P4 Project** for the **SPORTS system**. This project provides a
 
 The SPORTS system web portal includes three primary pages:
 - **Landing Page**: Can be ignored for this assignment.
+- **Login Page**: Authentication portal to be used once for sign on
+
+Credentials:
+```
+email: user@example.com
+password: password
+```
 - **Scheduler Page**: Contains buttons to test and run your scheduling code. Refer to the "Test Cases" section for details about each dataset.
 
 ---
