@@ -1,0 +1,5 @@
+{
+    "python.testing.cwd": "${workspaceFolder}/P4-support-code",
+    "python.testing.pytestEnabled": true
+  }
+  

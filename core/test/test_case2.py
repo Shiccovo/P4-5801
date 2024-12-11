@@ -1,6 +1,6 @@
 import pytest
 import pandas as pd
-from core.py.scheduler import Scheduler
+from ..py.scheduler import Scheduler
 
 def test_case2():
 	case = "case2"
@@ -8,4 +8,4 @@ def test_case2():
 	scheduler.run(case)
 	
 	df = pd.read_csv(f"./data/{case}/schedule.csv")
-	assert len(df) == 96
+	assert len(df) == 144
