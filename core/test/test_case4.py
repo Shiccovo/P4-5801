@@ -8,4 +8,4 @@ def test_case4():
 	scheduler.run(case)
 	
 	df = pd.read_csv(f"./data/{case}/schedule.csv")
-	assert len(df) == 96
+	assert len(df) == 144

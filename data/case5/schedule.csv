@@ -1,1 +1,379 @@
-
+team1Name,team2Name,week,day,start,end,season,league,location
+Ericbury Wildcats,Debraton Bulls,14,1,14.5,16.5,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Anitaberg Bobcats,14,1,5.5,7.5,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Coxfurt Pirates,14,2,10.0,12.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,New Deborahmouth Dolphins,14,1,7.5,9.5,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Jenniferborough Mavericks,14,1,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Potterberg Mavericks,14,2,12.0,14.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,New Rachel Jacks,14,2,14.0,16.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Joshuabury Pirates,15,1,7.0,9.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,New Cindy Bucaneers,14,4,11.0,13.0,2024,Platinum League,Susanburgh Plaza Field #1
+Ericbury Wildcats,New Paulfort Chargers,14,7,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Cindyfurt Hawks,14,3,5.0,7.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,Anitaberg Bobcats,14,2,7.0,9.0,2024,Platinum League,Ashleytown Grounds Field #1
+Debraton Bulls,Coxfurt Pirates,14,4,7.0,9.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,New Deborahmouth Dolphins,14,4,3.0,5.0,2024,Platinum League,Ashleytown Grounds Field #1
+Debraton Bulls,Jenniferborough Mavericks,14,2,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #2
+Debraton Bulls,Potterberg Mavericks,14,4,9.0,11.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,New Rachel Jacks,15,2,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #1
+Debraton Bulls,Joshuabury Pirates,14,5,3.5,5.5,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,New Cindy Bucaneers,14,5,6.5,8.5,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,New Paulfort Chargers,15,4,11.0,13.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,Cindyfurt Hawks,15,1,14.5,16.5,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,Coxfurt Pirates,14,6,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,New Deborahmouth Dolphins,14,1,9.5,11.5,2024,Platinum League,Ashleytown Grounds Field #2
+Anitaberg Bobcats,Jenniferborough Mavericks,14,1,13.0,15.0,2024,Platinum League,Ashleytown Grounds Field #2
+Anitaberg Bobcats,Potterberg Mavericks,14,1,7.5,9.5,2024,Platinum League,Ashleytown Grounds Field #2
+Anitaberg Bobcats,New Rachel Jacks,14,2,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #3
+Anitaberg Bobcats,Joshuabury Pirates,14,5,7.5,9.5,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,New Cindy Bucaneers,14,2,2.5,4.5,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,New Paulfort Chargers,15,1,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,Cindyfurt Hawks,14,1,15.0,17.0,2024,Platinum League,Ashleytown Grounds Field #2
+Coxfurt Pirates,New Deborahmouth Dolphins,14,2,14.0,16.0,2024,Platinum League,Ashleytown Grounds Field #2
+Coxfurt Pirates,Jenniferborough Mavericks,14,2,12.0,14.0,2024,Platinum League,Ashleytown Grounds Field #2
+Coxfurt Pirates,Potterberg Mavericks,15,2,7.5,9.5,2024,Platinum League,Ashleytown Grounds Field #2
+Coxfurt Pirates,New Rachel Jacks,14,6,6.0,8.0,2024,Platinum League,Ashleytown Grounds Field #1
+Coxfurt Pirates,New Cindy Bucaneers,16,2,7.5,9.5,2024,Platinum League,Ashleytown Grounds Field #1
+Coxfurt Pirates,Cindyfurt Hawks,15,2,9.5,11.5,2024,Platinum League,Ashleytown Grounds Field #2
+New Deborahmouth Dolphins,Jenniferborough Mavericks,14,1,15.0,17.0,2024,Platinum League,Ashleytown Grounds Field #3
+New Deborahmouth Dolphins,Potterberg Mavericks,14,1,11.5,13.5,2024,Platinum League,Ashleytown Grounds Field #3
+New Deborahmouth Dolphins,New Rachel Jacks,14,6,8.0,10.0,2024,Platinum League,Ashleytown Grounds Field #2
+New Deborahmouth Dolphins,Joshuabury Pirates,15,1,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #2
+New Deborahmouth Dolphins,New Paulfort Chargers,15,2,15.0,17.0,2024,Platinum League,Ashleytown Grounds Field #1
+New Deborahmouth Dolphins,Cindyfurt Hawks,16,1,13.0,15.0,2024,Platinum League,Ashleytown Grounds Field #1
+Jenniferborough Mavericks,Potterberg Mavericks,14,2,5.0,7.0,2024,Platinum League,Ashleytown Grounds Field #1
+Jenniferborough Mavericks,New Rachel Jacks,14,3,7.0,9.0,2024,Platinum League,Susanburgh Plaza Field #1
+Jenniferborough Mavericks,Joshuabury Pirates,14,5,9.5,11.5,2024,Platinum League,Ashleytown Grounds Field #1
+Jenniferborough Mavericks,New Cindy Bucaneers,14,2,7.0,9.0,2024,Platinum League,Ashleytown Grounds Field #2
+Jenniferborough Mavericks,New Paulfort Chargers,15,7,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #1
+Jenniferborough Mavericks,Cindyfurt Hawks,14,7,15.0,17.0,2024,Platinum League,Susanburgh Plaza Field #1
+Potterberg Mavericks,New Rachel Jacks,14,3,9.0,11.0,2024,Platinum League,Susanburgh Plaza Field #1
+Potterberg Mavericks,Joshuabury Pirates,14,1,9.5,11.5,2024,Platinum League,Ashleytown Grounds Field #3
+Potterberg Mavericks,New Cindy Bucaneers,14,1,5.5,7.5,2024,Platinum League,Ashleytown Grounds Field #2
+Potterberg Mavericks,New Paulfort Chargers,16,1,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #1
+Potterberg Mavericks,Cindyfurt Hawks,14,2,7.0,9.0,2024,Platinum League,Ashleytown Grounds Field #3
+New Rachel Jacks,New Cindy Bucaneers,16,4,11.0,13.0,2024,Platinum League,Susanburgh Plaza Field #1
+New Rachel Jacks,New Paulfort Chargers,16,2,15.0,17.0,2024,Platinum League,Ashleytown Grounds Field #1
+New Rachel Jacks,Cindyfurt Hawks,14,2,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #3
+Joshuabury Pirates,New Cindy Bucaneers,15,5,6.5,8.5,2024,Platinum League,Susanburgh Plaza Field #1
+Joshuabury Pirates,New Paulfort Chargers,17,1,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #1
+New Cindy Bucaneers,New Paulfort Chargers,17,4,11.0,13.0,2024,Platinum League,Susanburgh Plaza Field #1
+New Cindy Bucaneers,Cindyfurt Hawks,14,2,4.5,6.5,2024,Platinum League,Ashleytown Grounds Field #2
+New Paulfort Chargers,Cindyfurt Hawks,18,4,11.0,13.0,2024,Platinum League,Susanburgh Plaza Field #1
+Ericbury Wildcats,Debraton Bulls,15,3,5.0,7.0,2024,Platinum League,Susanburgh Plaza Field #1
+Ericbury Wildcats,Anitaberg Bobcats,14,3,11.0,13.0,2024,Platinum League,Susanburgh Plaza Field #1
+Ericbury Wildcats,Coxfurt Pirates,15,2,11.5,13.5,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,New Deborahmouth Dolphins,14,7,6.0,8.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Jenniferborough Mavericks,14,7,8.0,10.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Potterberg Mavericks,15,1,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #3
+Ericbury Wildcats,New Rachel Jacks,15,1,14.0,16.0,2024,Platinum League,Ashleytown Grounds Field #2
+Ericbury Wildcats,Joshuabury Pirates,16,1,7.0,9.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,New Cindy Bucaneers,15,7,8.0,10.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,New Paulfort Chargers,16,7,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #1
+Ericbury Wildcats,Cindyfurt Hawks,15,3,7.0,9.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,Anitaberg Bobcats,14,5,9.5,11.5,2024,Platinum League,Ashleytown Grounds Field #2
+Debraton Bulls,Coxfurt Pirates,15,4,7.0,9.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,New Deborahmouth Dolphins,15,4,3.0,5.0,2024,Platinum League,Ashleytown Grounds Field #1
+Debraton Bulls,Jenniferborough Mavericks,15,2,7.0,9.0,2024,Platinum League,Ashleytown Grounds Field #1
+Debraton Bulls,Potterberg Mavericks,15,4,9.0,11.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,New Rachel Jacks,16,2,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #2
+Debraton Bulls,Joshuabury Pirates,15,5,3.5,5.5,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,New Cindy Bucaneers,15,5,8.5,10.5,2024,Platinum League,Ashleytown Grounds Field #1
+Debraton Bulls,New Paulfort Chargers,19,4,11.0,13.0,2024,Platinum League,Susanburgh Plaza Field #1
+Debraton Bulls,Cindyfurt Hawks,16,1,15.0,17.0,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,Coxfurt Pirates,15,6,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,New Deborahmouth Dolphins,15,1,6.5,8.5,2024,Platinum League,Ashleytown Grounds Field #2
+Anitaberg Bobcats,Jenniferborough Mavericks,14,7,10.0,12.0,2024,Platinum League,Ashleytown Grounds Field #2
+Anitaberg Bobcats,Potterberg Mavericks,14,3,13.0,15.0,2024,Platinum League,Susanburgh Plaza Field #1
+Anitaberg Bobcats,New Rachel Jacks,14,7,2.0,4.0,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,Joshuabury Pirates,15,5,8.5,10.5,2024,Platinum League,Ashleytown Grounds Field #2
+Anitaberg Bobcats,New Cindy Bucaneers,14,7,8.0,10.0,2024,Platinum League,Ashleytown Grounds Field #2
+Anitaberg Bobcats,New Paulfort Chargers,17,7,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #1
+Anitaberg Bobcats,Cindyfurt Hawks,15,2,4.0,6.0,2024,Platinum League,Ashleytown Grounds Field #1
+Coxfurt Pirates,New Deborahmouth Dolphins,15,6,5.5,7.5,2024,Platinum League,Ashleytown Grounds Field #1
+Coxfurt Pirates,Jenniferborough Mavericks,16,2,9.5,11.5,2024,Platinum League,Ashleytown Grounds Field #1
+Coxfurt Pirates,Potterberg Mavericks,16,2,11.5,13.5,2024,Platinum League,Ashleytown Grounds Field #1
+Coxfurt Pirates,New Rachel Jacks,15,2,13.5,15.5,2024,Platinum League,Ashleytown Grounds Field #2
+Coxfurt Pirates,New Cindy Bucaneers,17,2,7.5,9.5,2024,Platinum League,Ashleytown Grounds Field #1
+Coxfurt Pirates,Cindyfurt Hawks,17,2,9.5,11.5,2024,Platinum League,Ashleytown Grounds Field #1
+New Deborahmouth Dolphins,Jenniferborough Mavericks,15,1,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #1
+New Deborahmouth Dolphins,Potterberg Mavericks,15,1,13.0,15.0,2024,Platinum League,Ashleytown Grounds Field #3
+New Deborahmouth Dolphins,New Rachel Jacks,15,6,7.5,9.5,2024,Platinum League,Ashleytown Grounds Field #2
+New Deborahmouth Dolphins,Joshuabury Pirates,16,1,9.0,11.0,2024,Platinum League,Ashleytown Grounds Field #2
+New Deborahmouth Dolphins,New Paulfort Chargers,17,2,15.0,17.0,2024,Platinum League,Ashleytown Grounds Field #1
+New Deborahmouth Dolphins,Cindyfurt Hawks,17,1,13.0,15.0,2024,Platinum League,Ashleytown Grounds Field #1
+Jenniferborough Mavericks,Potterberg Mavericks,14,4,3.5,5.5,2024,Platinum League,Ashleytown Grounds Field #2
+Jenniferborough Mavericks,New Rachel Jacks,15,2,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #3
+Jenniferborough Mavericks,Joshuabury Pirates,16,5,3.5,5.5,2024,Platinum League,Susanburgh Plaza Field #1
+Jenniferborough Mavericks,New Cindy Bucaneers,15,2,5.0,7.0,2024,Platinum League,Ashleytown Grounds Field #2
+Jenniferborough Mavericks,New Paulfort Chargers,18,7,11.0,13.0,2024,Platinum League,Ashleytown Grounds Field #1
+Jenniferborough Mavericks,Cindyfurt Hawks,15,7,15.0,17.0,2024,Platinum League,Susanburgh Plaza Field #1
+Potterberg Mavericks,New Rachel Jacks,15,3,9.0,11.0,2024,Platinum League,Susanburgh Plaza Field #1
+Potterberg Mavericks,Joshuabury Pirates,16,5,5.5,7.5,2024,Platinum League,Susanburgh Plaza Field #1
+Potterberg Mavericks,New Cindy Bucaneers,14,5,8.5,10.5,2024,Platinum League,Ashleytown Grounds Field #3
+Maloneport Rappers,North Martinstad Robbers,16,2,10.5,12.5,2024,Obsidian League,Ashleytown Grounds Field #3
+Maloneport Rappers,New Christopherburgh Hawks,16,3,5.0,7.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Maloneport Rappers,Bennettport Sabres,16,2,14.0,16.0,2024,Obsidian League,Ashleytown Grounds Field #2
+Maloneport Rappers,Sarahside Celtics,16,5,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Maloneport Rappers,Woodland Hawks,16,7,2.5,4.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Maloneport Rappers,Gardnerstad Sabres,16,3,10.0,12.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Maloneport Rappers,Port Cameronmouth Sox,16,3,7.0,9.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Maloneport Rappers,South Mason Bucaneers,16,7,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Maloneport Rappers,Fisherborough Robbers,16,5,1.0,3.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Maloneport Rappers,East Kristina Westerners,16,7,11.0,13.0,2024,Obsidian League,Ashleytown Grounds Field #2
+Maloneport Rappers,Calebmouth Dolphins,17,2,10.5,12.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Maloneport Rappers,North Rebeccachester Bobcats,16,7,4.5,6.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Maloneport Rappers,South Michelle Warriors,16,7,15.5,17.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Maloneport Rappers,Lake Terrence Dolphins,16,7,13.0,15.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Maloneport Rappers,Port Jamesburgh Warriors,17,7,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #1
+North Martinstad Robbers,New Christopherburgh Hawks,16,3,12.0,14.0,2024,Obsidian League,Susanburgh Plaza Field #1
+North Martinstad Robbers,Bennettport Sabres,16,5,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #2
+North Martinstad Robbers,Sarahside Celtics,16,2,12.5,14.5,2024,Obsidian League,Ashleytown Grounds Field #3
+North Martinstad Robbers,Woodland Hawks,16,1,15.0,17.0,2024,Obsidian League,Ashleytown Grounds Field #2
+North Martinstad Robbers,Gardnerstad Sabres,17,3,10.0,12.0,2024,Obsidian League,Susanburgh Plaza Field #1
+North Martinstad Robbers,Port Cameronmouth Sox,16,6,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #1
+North Martinstad Robbers,South Mason Bucaneers,16,4,7.5,9.5,2024,Obsidian League,Susanburgh Plaza Field #1
+North Martinstad Robbers,Fisherborough Robbers,17,3,5.0,7.0,2024,Obsidian League,Susanburgh Plaza Field #1
+North Martinstad Robbers,East Kristina Westerners,16,2,14.5,16.5,2024,Obsidian League,Ashleytown Grounds Field #3
+North Martinstad Robbers,Calebmouth Dolphins,16,5,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #1
+North Martinstad Robbers,North Rebeccachester Bobcats,16,6,3.0,5.0,2024,Obsidian League,Susanburgh Plaza Field #1
+North Martinstad Robbers,South Michelle Warriors,16,6,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #1
+North Martinstad Robbers,Lake Terrence Dolphins,16,6,5.0,7.0,2024,Obsidian League,Ashleytown Grounds Field #1
+North Martinstad Robbers,Port Jamesburgh Warriors,17,3,12.0,14.0,2024,Obsidian League,Susanburgh Plaza Field #1
+New Christopherburgh Hawks,Bennettport Sabres,16,5,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #2
+New Christopherburgh Hawks,Sarahside Celtics,16,2,8.5,10.5,2024,Obsidian League,Ashleytown Grounds Field #3
+New Christopherburgh Hawks,Woodland Hawks,16,1,12.0,14.0,2024,Obsidian League,Ashleytown Grounds Field #2
+New Christopherburgh Hawks,Gardnerstad Sabres,16,7,4.0,6.0,2024,Obsidian League,Ashleytown Grounds Field #2
+New Christopherburgh Hawks,Port Cameronmouth Sox,16,6,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #2
+New Christopherburgh Hawks,South Mason Bucaneers,16,7,9.5,11.5,2024,Obsidian League,Ashleytown Grounds Field #3
+New Christopherburgh Hawks,Fisherborough Robbers,16,2,2.5,4.5,2024,Obsidian League,Ashleytown Grounds Field #1
+New Christopherburgh Hawks,East Kristina Westerners,16,2,4.5,6.5,2024,Obsidian League,Ashleytown Grounds Field #1
+New Christopherburgh Hawks,Calebmouth Dolphins,16,5,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #3
+New Christopherburgh Hawks,North Rebeccachester Bobcats,16,6,5.0,7.0,2024,Obsidian League,Ashleytown Grounds Field #2
+New Christopherburgh Hawks,South Michelle Warriors,16,1,14.0,16.0,2024,Obsidian League,Ashleytown Grounds Field #3
+New Christopherburgh Hawks,Lake Terrence Dolphins,16,6,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #2
+New Christopherburgh Hawks,Port Jamesburgh Warriors,16,7,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Bennettport Sabres,Sarahside Celtics,17,2,14.0,16.0,2024,Obsidian League,Ashleytown Grounds Field #2
+Bennettport Sabres,Woodland Hawks,16,1,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Bennettport Sabres,Gardnerstad Sabres,16,7,6.0,8.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Bennettport Sabres,South Mason Bucaneers,17,7,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Bennettport Sabres,Fisherborough Robbers,17,1,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #2
+Bennettport Sabres,East Kristina Westerners,17,5,2.5,4.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Bennettport Sabres,Calebmouth Dolphins,17,5,4.5,6.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Bennettport Sabres,North Rebeccachester Bobcats,17,7,4.5,6.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Bennettport Sabres,South Michelle Warriors,18,1,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Bennettport Sabres,Lake Terrence Dolphins,16,7,8.0,10.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Bennettport Sabres,Port Jamesburgh Warriors,17,7,9.5,11.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Sarahside Celtics,Woodland Hawks,16,6,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Sarahside Celtics,Gardnerstad Sabres,16,7,13.0,15.0,2024,Obsidian League,Ashleytown Grounds Field #2
+Sarahside Celtics,Port Cameronmouth Sox,16,7,17.5,19.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Sarahside Celtics,South Mason Bucaneers,17,2,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Sarahside Celtics,Fisherborough Robbers,17,7,13.5,15.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Sarahside Celtics,East Kristina Westerners,16,5,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Sarahside Celtics,Calebmouth Dolphins,16,6,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Sarahside Celtics,North Rebeccachester Bobcats,18,2,12.5,14.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Sarahside Celtics,South Michelle Warriors,16,7,19.5,21.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Sarahside Celtics,Lake Terrence Dolphins,17,4,7.0,9.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Woodland Hawks,Gardnerstad Sabres,16,7,10.0,12.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Woodland Hawks,Port Cameronmouth Sox,16,2,11.5,13.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Woodland Hawks,South Mason Bucaneers,16,4,3.0,5.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Woodland Hawks,Fisherborough Robbers,16,1,5.5,7.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Woodland Hawks,East Kristina Westerners,17,2,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Woodland Hawks,Calebmouth Dolphins,16,6,5.0,7.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Woodland Hawks,North Rebeccachester Bobcats,17,1,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #3
+Woodland Hawks,South Michelle Warriors,17,1,5.5,7.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Woodland Hawks,Lake Terrence Dolphins,17,1,11.0,13.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Woodland Hawks,Port Jamesburgh Warriors,18,7,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Gardnerstad Sabres,South Mason Bucaneers,17,7,9.5,11.5,2024,Obsidian League,Ashleytown Grounds Field #3
+Gardnerstad Sabres,Fisherborough Robbers,18,3,10.0,12.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Gardnerstad Sabres,East Kristina Westerners,17,7,11.5,13.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Gardnerstad Sabres,Calebmouth Dolphins,19,3,10.0,12.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Gardnerstad Sabres,North Rebeccachester Bobcats,18,7,4.0,6.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Gardnerstad Sabres,South Michelle Warriors,20,3,10.0,12.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Gardnerstad Sabres,Lake Terrence Dolphins,17,7,4.0,6.0,2024,Obsidian League,Ashleytown Grounds Field #2
+Gardnerstad Sabres,Port Jamesburgh Warriors,18,7,9.5,11.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Port Cameronmouth Sox,South Mason Bucaneers,17,2,11.5,13.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Port Cameronmouth Sox,Fisherborough Robbers,17,3,7.0,9.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Port Cameronmouth Sox,East Kristina Westerners,18,2,11.5,13.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Port Cameronmouth Sox,Calebmouth Dolphins,17,6,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Port Cameronmouth Sox,North Rebeccachester Bobcats,18,3,6.5,8.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Port Cameronmouth Sox,South Michelle Warriors,17,6,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Port Cameronmouth Sox,Lake Terrence Dolphins,17,7,14.5,16.5,2024,Obsidian League,Susanburgh Plaza Field #1
+South Mason Bucaneers,Fisherborough Robbers,16,1,11.0,13.0,2024,Obsidian League,Ashleytown Grounds Field #1
+South Mason Bucaneers,East Kristina Westerners,18,2,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #1
+South Mason Bucaneers,Calebmouth Dolphins,17,4,3.0,5.0,2024,Obsidian League,Ashleytown Grounds Field #1
+South Mason Bucaneers,North Rebeccachester Bobcats,19,3,5.0,7.0,2024,Obsidian League,Susanburgh Plaza Field #1
+South Mason Bucaneers,South Michelle Warriors,17,1,11.0,13.0,2024,Obsidian League,Ashleytown Grounds Field #2
+South Mason Bucaneers,Lake Terrence Dolphins,17,4,9.0,11.0,2024,Obsidian League,Susanburgh Plaza Field #1
+South Mason Bucaneers,Port Jamesburgh Warriors,19,7,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Fisherborough Robbers,East Kristina Westerners,17,2,3.5,5.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Fisherborough Robbers,Calebmouth Dolphins,17,5,0.5,2.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Fisherborough Robbers,North Rebeccachester Bobcats,16,1,9.0,11.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Fisherborough Robbers,South Michelle Warriors,17,1,13.0,15.0,2024,Obsidian League,Ashleytown Grounds Field #2
+Fisherborough Robbers,Lake Terrence Dolphins,17,7,16.5,18.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Fisherborough Robbers,Port Jamesburgh Warriors,16,2,4.5,6.5,2024,Obsidian League,Ashleytown Grounds Field #2
+East Kristina Westerners,Calebmouth Dolphins,17,5,6.5,8.5,2024,Obsidian League,Susanburgh Plaza Field #1
+East Kristina Westerners,North Rebeccachester Bobcats,17,2,12.5,14.5,2024,Obsidian League,Ashleytown Grounds Field #3
+East Kristina Westerners,South Michelle Warriors,17,6,6.5,8.5,2024,Obsidian League,Ashleytown Grounds Field #2
+East Kristina Westerners,Lake Terrence Dolphins,17,2,14.5,16.5,2024,Obsidian League,Ashleytown Grounds Field #3
+East Kristina Westerners,Port Jamesburgh Warriors,17,2,5.5,7.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Calebmouth Dolphins,North Rebeccachester Bobcats,17,6,3.0,5.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Calebmouth Dolphins,South Michelle Warriors,18,3,12.0,14.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Calebmouth Dolphins,Lake Terrence Dolphins,16,4,3.5,5.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Calebmouth Dolphins,Port Jamesburgh Warriors,19,3,12.0,14.0,2024,Obsidian League,Susanburgh Plaza Field #1
+North Rebeccachester Bobcats,South Michelle Warriors,19,1,9.0,11.0,2024,Obsidian League,Ashleytown Grounds Field #1
+North Rebeccachester Bobcats,Lake Terrence Dolphins,17,6,5.0,7.0,2024,Obsidian League,Ashleytown Grounds Field #1
+North Rebeccachester Bobcats,Port Jamesburgh Warriors,20,3,12.0,14.0,2024,Obsidian League,Susanburgh Plaza Field #1
+South Michelle Warriors,Lake Terrence Dolphins,16,1,11.0,13.0,2024,Obsidian League,Ashleytown Grounds Field #3
+South Michelle Warriors,Port Jamesburgh Warriors,21,3,12.0,14.0,2024,Obsidian League,Susanburgh Plaza Field #1
+Lake Terrence Dolphins,Port Jamesburgh Warriors,19,7,9.5,11.5,2024,Obsidian League,Ashleytown Grounds Field #1
+Maloneport Rappers,North Martinstad Robbers,17,5,7.0,9.0,2024,Obsidian League,Ashleytown Grounds Field #1
+Maloneport Rappers,New Christopherburgh Hawks,17,7,3.5,5.5,2024,Obsidian League,Ashleytown Grounds Field #3
+Maloneport Rappers,Bennettport Sabres,17,7,11.5,13.5,2024,Obsidian League,Ashleytown Grounds Field #3
+Maloneport Rappers,Sarahside Celtics,18,2,10.5,12.5,2024,Obsidian League,Ashleytown Grounds Field #3
+Maloneport Rappers,Woodland Hawks,17,7,5.5,7.5,2024,Obsidian League,Ashleytown Grounds Field #3
+Maloneport Rappers,Gardnerstad Sabres,17,7,13.5,15.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Maloneport Rappers,Port Cameronmouth Sox,18,7,14.5,16.5,2024,Obsidian League,Susanburgh Plaza Field #1
+Maloneport Rappers,South Mason Bucaneers,18,7,7.5,9.5,2024,Obsidian League,Ashleytown Grounds Field #2
+Hatfieldfurt Bears,Bergfurt Hawks,16,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #3
+Hatfieldfurt Bears,Wilkinsbury Commandos,17,1,9.0,11.0,2024,Diamond League,Susanburgh Plaza Field #1
+Hatfieldfurt Bears,Richardborough Bears,16,5,7.5,9.5,2024,Diamond League,Susanburgh Plaza Field #1
+Hatfieldfurt Bears,Taylorstad Wildcats,16,7,2.5,4.5,2024,Diamond League,Ashleytown Grounds Field #3
+Hatfieldfurt Bears,North Jamesside Rappers,18,1,8.5,10.5,2024,Diamond League,Ashleytown Grounds Field #2
+Hatfieldfurt Bears,Kellyhaven Vikings,17,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #2
+Hatfieldfurt Bears,Villaton Rappers,17,5,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #2
+Hatfieldfurt Bears,Port Michellehaven Mavericks,17,1,11.0,13.0,2024,Diamond League,Ashleytown Grounds Field #3
+Hatfieldfurt Bears,Jenniferport Commandos,17,5,9.0,11.0,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,West Martinton Dolphins,17,7,2.5,4.5,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,Clairefort Hornets,17,1,13.0,15.0,2024,Diamond League,Ashleytown Grounds Field #3
+Hatfieldfurt Bears,Port Loganberg Warriors,17,1,15.0,17.0,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,New Gina Pirates,18,1,10.5,12.5,2024,Diamond League,Ashleytown Grounds Field #2
+Hatfieldfurt Bears,West Ronald Jacks,18,2,14.0,16.0,2024,Diamond League,Ashleytown Grounds Field #2
+Hatfieldfurt Bears,North Melissa Pirates,18,5,5.0,7.0,2024,Diamond League,Susanburgh Plaza Field #1
+Hatfieldfurt Bears,Weaverview Jacks,18,4,7.0,9.0,2024,Diamond League,Susanburgh Plaza Field #1
+Hatfieldfurt Bears,East Brittneyfurt Americans,18,1,12.5,14.5,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,Carlsonview Grizzlies,18,1,14.5,16.5,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,North Nicholas Warriors,18,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,Jamesburgh Sox,18,4,9.0,11.0,2024,Diamond League,Susanburgh Plaza Field #1
+Hatfieldfurt Bears,Brianburgh Pirates,18,5,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,West Markstad Sox,18,5,9.0,11.0,2024,Diamond League,Ashleytown Grounds Field #1
+Hatfieldfurt Bears,New Alexandraview Celtics,19,1,8.5,10.5,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,Wilkinsbury Commandos,16,7,11.5,13.5,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,Richardborough Bears,16,2,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,Taylorstad Wildcats,16,2,5.0,7.0,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,North Jamesside Rappers,16,2,1.0,3.0,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,Kellyhaven Vikings,18,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,Villaton Rappers,17,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,Port Michellehaven Mavericks,16,7,13.5,15.5,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,Jenniferport Commandos,18,5,7.5,9.5,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,West Martinton Dolphins,17,5,7.5,9.5,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,Clairefort Hornets,17,5,9.5,11.5,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,Port Loganberg Warriors,17,2,5.0,7.0,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,New Gina Pirates,17,7,9.5,11.5,2024,Diamond League,Susanburgh Plaza Field #1
+Bergfurt Hawks,West Ronald Jacks,19,3,7.0,9.0,2024,Diamond League,Susanburgh Plaza Field #1
+Bergfurt Hawks,North Melissa Pirates,17,7,11.5,13.5,2024,Diamond League,Susanburgh Plaza Field #1
+Bergfurt Hawks,Weaverview Jacks,18,5,9.5,11.5,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,East Brittneyfurt Americans,17,2,1.0,3.0,2024,Diamond League,Ashleytown Grounds Field #1
+Bergfurt Hawks,Carlsonview Grizzlies,17,2,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,North Nicholas Warriors,17,7,13.5,15.5,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,Jamesburgh Sox,18,7,9.0,11.0,2024,Diamond League,Ashleytown Grounds Field #3
+Bergfurt Hawks,Brianburgh Pirates,18,7,11.5,13.5,2024,Diamond League,Ashleytown Grounds Field #2
+Bergfurt Hawks,West Markstad Sox,18,2,6.0,8.0,2024,Diamond League,Ashleytown Grounds Field #1
+Bergfurt Hawks,New Alexandraview Celtics,18,2,2.5,4.5,2024,Diamond League,Ashleytown Grounds Field #1
+Wilkinsbury Commandos,Richardborough Bears,16,7,13.5,15.5,2024,Diamond League,Susanburgh Plaza Field #1
+Wilkinsbury Commandos,Taylorstad Wildcats,17,6,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #3
+Wilkinsbury Commandos,North Jamesside Rappers,17,6,9.0,11.0,2024,Diamond League,Ashleytown Grounds Field #2
+Wilkinsbury Commandos,Villaton Rappers,18,7,10.5,12.5,2024,Diamond League,Susanburgh Plaza Field #1
+Wilkinsbury Commandos,Port Michellehaven Mavericks,16,6,5.0,7.0,2024,Diamond League,Susanburgh Plaza Field #1
+Wilkinsbury Commandos,Jenniferport Commandos,17,6,4.0,6.0,2024,Diamond League,Ashleytown Grounds Field #2
+Wilkinsbury Commandos,West Martinton Dolphins,18,1,8.5,10.5,2024,Diamond League,Ashleytown Grounds Field #3
+Wilkinsbury Commandos,Clairefort Hornets,17,1,15.0,17.0,2024,Diamond League,Ashleytown Grounds Field #2
+Wilkinsbury Commandos,Port Loganberg Warriors,18,1,10.5,12.5,2024,Diamond League,Ashleytown Grounds Field #3
+Wilkinsbury Commandos,New Gina Pirates,18,1,12.5,14.5,2024,Diamond League,Ashleytown Grounds Field #2
+Wilkinsbury Commandos,West Ronald Jacks,18,6,8.0,10.0,2024,Diamond League,Ashleytown Grounds Field #1
+Wilkinsbury Commandos,North Melissa Pirates,18,7,8.5,10.5,2024,Diamond League,Susanburgh Plaza Field #1
+Wilkinsbury Commandos,Weaverview Jacks,18,2,14.0,16.0,2024,Diamond League,Ashleytown Grounds Field #3
+Wilkinsbury Commandos,East Brittneyfurt Americans,18,1,14.5,16.5,2024,Diamond League,Ashleytown Grounds Field #2
+Wilkinsbury Commandos,Carlsonview Grizzlies,19,1,8.5,10.5,2024,Diamond League,Ashleytown Grounds Field #3
+Wilkinsbury Commandos,North Nicholas Warriors,18,6,5.0,7.0,2024,Diamond League,Ashleytown Grounds Field #1
+Wilkinsbury Commandos,Jamesburgh Sox,19,6,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #1
+Wilkinsbury Commandos,Brianburgh Pirates,18,7,13.5,15.5,2024,Diamond League,Ashleytown Grounds Field #1
+Wilkinsbury Commandos,West Markstad Sox,19,2,14.0,16.0,2024,Diamond League,Ashleytown Grounds Field #1
+Wilkinsbury Commandos,New Alexandraview Celtics,18,7,16.5,18.5,2024,Diamond League,Susanburgh Plaza Field #1
+Richardborough Bears,Taylorstad Wildcats,16,7,0.5,2.5,2024,Diamond League,Ashleytown Grounds Field #1
+Richardborough Bears,North Jamesside Rappers,16,2,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #2
+Richardborough Bears,Kellyhaven Vikings,18,7,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #2
+Richardborough Bears,Villaton Rappers,17,5,9.5,11.5,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,Port Michellehaven Mavericks,17,2,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,Jenniferport Commandos,17,6,9.5,11.5,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,West Martinton Dolphins,18,5,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,Clairefort Hornets,18,1,12.5,14.5,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,Port Loganberg Warriors,17,7,7.5,9.5,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,New Gina Pirates,17,1,15.0,17.0,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,West Ronald Jacks,17,7,1.5,3.5,2024,Diamond League,Ashleytown Grounds Field #2
+Richardborough Bears,North Melissa Pirates,18,5,9.0,11.0,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,Weaverview Jacks,18,7,5.0,7.0,2024,Diamond League,Ashleytown Grounds Field #2
+Richardborough Bears,East Brittneyfurt Americans,17,2,5.0,7.0,2024,Diamond League,Ashleytown Grounds Field #3
+Richardborough Bears,Carlsonview Grizzlies,18,2,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #2
+Richardborough Bears,North Nicholas Warriors,18,7,0.5,2.5,2024,Diamond League,Ashleytown Grounds Field #1
+Richardborough Bears,Jamesburgh Sox,18,6,9.5,11.5,2024,Diamond League,Ashleytown Grounds Field #2
+Richardborough Bears,Brianburgh Pirates,17,7,18.5,20.5,2024,Diamond League,Susanburgh Plaza Field #1
+Richardborough Bears,West Markstad Sox,18,5,3.0,5.0,2024,Diamond League,Susanburgh Plaza Field #1
+Richardborough Bears,New Alexandraview Celtics,18,1,14.5,16.5,2024,Diamond League,Ashleytown Grounds Field #3
+Taylorstad Wildcats,North Jamesside Rappers,17,2,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #3
+Taylorstad Wildcats,Kellyhaven Vikings,16,1,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #3
+Taylorstad Wildcats,Villaton Rappers,19,7,10.5,12.5,2024,Diamond League,Ashleytown Grounds Field #2
+Taylorstad Wildcats,Port Michellehaven Mavericks,17,1,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #2
+Taylorstad Wildcats,Jenniferport Commandos,17,7,0.5,2.5,2024,Diamond League,Ashleytown Grounds Field #1
+Taylorstad Wildcats,West Martinton Dolphins,18,1,5.5,7.5,2024,Diamond League,Ashleytown Grounds Field #1
+Taylorstad Wildcats,Clairefort Hornets,18,2,9.5,11.5,2024,Diamond League,Ashleytown Grounds Field #2
+Taylorstad Wildcats,Port Loganberg Warriors,18,2,5.0,7.0,2024,Diamond League,Ashleytown Grounds Field #2
+Taylorstad Wildcats,New Gina Pirates,18,6,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #2
+Taylorstad Wildcats,West Ronald Jacks,18,7,1.5,3.5,2024,Diamond League,Ashleytown Grounds Field #3
+Taylorstad Wildcats,North Melissa Pirates,18,6,9.0,11.0,2024,Diamond League,Ashleytown Grounds Field #3
+Taylorstad Wildcats,Weaverview Jacks,18,7,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #3
+Taylorstad Wildcats,East Brittneyfurt Americans,19,1,5.5,7.5,2024,Diamond League,Ashleytown Grounds Field #1
+Taylorstad Wildcats,Carlsonview Grizzlies,18,2,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #2
+Taylorstad Wildcats,North Nicholas Warriors,18,7,3.5,5.5,2024,Diamond League,Ashleytown Grounds Field #3
+Taylorstad Wildcats,Jamesburgh Sox,19,6,8.5,10.5,2024,Diamond League,Ashleytown Grounds Field #1
+Taylorstad Wildcats,Brianburgh Pirates,19,2,9.0,11.0,2024,Diamond League,Ashleytown Grounds Field #1
+Taylorstad Wildcats,West Markstad Sox,19,2,6.0,8.0,2024,Diamond League,Ashleytown Grounds Field #1
+Taylorstad Wildcats,New Alexandraview Celtics,19,2,4.0,6.0,2024,Diamond League,Ashleytown Grounds Field #1
+North Jamesside Rappers,Kellyhaven Vikings,19,4,7.0,9.0,2024,Diamond League,Susanburgh Plaza Field #1
+North Jamesside Rappers,Villaton Rappers,20,7,10.5,12.5,2024,Diamond League,Ashleytown Grounds Field #1
+North Jamesside Rappers,Port Michellehaven Mavericks,18,2,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #3
+North Jamesside Rappers,Jenniferport Commandos,18,6,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #3
+North Jamesside Rappers,West Martinton Dolphins,19,1,9.0,11.0,2024,Diamond League,Susanburgh Plaza Field #1
+North Jamesside Rappers,Clairefort Hornets,19,2,9.5,11.5,2024,Diamond League,Ashleytown Grounds Field #2
+North Jamesside Rappers,Port Loganberg Warriors,18,2,7.0,9.0,2024,Diamond League,Ashleytown Grounds Field #3
+North Jamesside Rappers,New Gina Pirates,18,7,11.0,13.0,2024,Diamond League,Ashleytown Grounds Field #3
+North Jamesside Rappers,West Ronald Jacks,19,2,14.0,16.0,2024,Diamond League,Ashleytown Grounds Field #2
+North Jamesside Rappers,North Melissa Pirates,19,6,7.5,9.5,2024,Diamond League,Ashleytown Grounds Field #2
+North Jamesside Rappers,Weaverview Jacks,19,2,11.5,13.5,2024,Diamond League,Ashleytown Grounds Field #1
+North Jamesside Rappers,East Brittneyfurt Americans,18,2,1.0,3.0,2024,Diamond League,Ashleytown Grounds Field #2
+North Jamesside Rappers,Carlsonview Grizzlies,17,2,1.0,3.0,2024,Diamond League,Ashleytown Grounds Field #2
+North Jamesside Rappers,North Nicholas Warriors,19,4,9.0,11.0,2024,Diamond League,Susanburgh Plaza Field #1
+North Jamesside Rappers,Jamesburgh Sox,19,7,10.0,12.0,2024,Diamond League,Ashleytown Grounds Field #3
+North Jamesside Rappers,Brianburgh Pirates,19,7,12.0,14.0,2024,Diamond League,Ashleytown Grounds Field #1
+North Jamesside Rappers,West Markstad Sox,20,2,6.0,8.0,2024,Diamond League,Ashleytown Grounds Field #1
+North Jamesside Rappers,New Alexandraview Celtics,18,2,5.0,7.0,2024,Diamond League,Ashleytown Grounds Field #3
+Kellyhaven Vikings,Villaton Rappers,19,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #1
+Kellyhaven Vikings,Port Michellehaven Mavericks,19,7,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #1
+Kellyhaven Vikings,Jenniferport Commandos,20,3,7.5,9.5,2024,Diamond League,Susanburgh Plaza Field #1
+Kellyhaven Vikings,West Martinton Dolphins,17,1,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #3
+Kellyhaven Vikings,Clairefort Hornets,20,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #1
+Kellyhaven Vikings,Port Loganberg Warriors,18,1,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #2
+Kellyhaven Vikings,New Gina Pirates,19,1,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #2
+Kellyhaven Vikings,West Ronald Jacks,20,7,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #1
+Kellyhaven Vikings,North Melissa Pirates,21,3,7.5,9.5,2024,Diamond League,Susanburgh Plaza Field #1
+Kellyhaven Vikings,Weaverview Jacks,20,4,7.0,9.0,2024,Diamond League,Susanburgh Plaza Field #1
+Kellyhaven Vikings,East Brittneyfurt Americans,20,1,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #1
+Kellyhaven Vikings,Carlsonview Grizzlies,20,4,9.0,11.0,2024,Diamond League,Susanburgh Plaza Field #1
+Kellyhaven Vikings,North Nicholas Warriors,20,4,11.0,13.0,2024,Diamond League,Susanburgh Plaza Field #1
+Kellyhaven Vikings,Jamesburgh Sox,21,4,4.0,6.0,2024,Diamond League,Ashleytown Grounds Field #1
+Kellyhaven Vikings,Brianburgh Pirates,21,1,6.5,8.5,2024,Diamond League,Ashleytown Grounds Field #1
+Kellyhaven Vikings,New Alexandraview Celtics,21,4,7.0,9.0,2024,Diamond League,Susanburgh Plaza Field #1
+Villaton Rappers,Port Michellehaven Mavericks,21,7,10.5,12.5,2024,Diamond League,Ashleytown Grounds Field #1
+Villaton Rappers,Jenniferport Commandos,18,4,3.0,5.0,2024,Diamond League,Ashleytown Grounds Field #3
+Villaton Rappers,West Martinton Dolphins,19,5,5.5,7.5,2024,Diamond League,Susanburgh Plaza Field #1
+Villaton Rappers,Clairefort Hornets,19,5,8.5,10.5,2024,Diamond League,Ashleytown Grounds Field #1
