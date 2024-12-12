@@ -1,1 +1,704 @@
-
+team1Name,team2Name,week,day,start,end,season,league,location
+Brownburgh Pirates,Davidbury Chiefs,16,5,11.0,13.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Mooreview Eagles,16,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Jasonbury Bears,17,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Lake Amanda Grizzlies,16,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,New Scott Wildcats,18,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Garrettburgh Pirates,16,5,15.0,17.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,East Albert Jacks,16,3,3.5,5.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,New Jason Dolphins,17,3,3.5,5.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Port Rebeccachester Hawks,17,5,13.5,15.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Port Annaberg Jacks,17,5,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Port Justin Sabres,16,7,2.0,4.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,West Lauratown Robbers,18,3,3.5,5.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,North Richardhaven Dolphins,17,5,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Hallside Sox,19,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Zimmermanfort Americans,17,7,2.0,4.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,South Charles Rappers,17,5,11.5,13.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Mullinsburgh Jacks,19,3,3.5,5.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,South Dean Bears,18,5,11.0,13.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,Lake Leroy Rappers,18,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Brownburgh Pirates,West Stacie Mavericks,18,5,15.0,17.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,Mooreview Eagles,16,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,Lake Amanda Grizzlies,16,5,15.0,17.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,New Scott Wildcats,16,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,Garrettburgh Pirates,17,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,East Albert Jacks,17,5,11.0,13.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,New Jason Dolphins,17,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,Port Rebeccachester Hawks,17,5,15.5,17.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,Port Annaberg Jacks,18,5,11.0,13.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,Port Justin Sabres,18,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,West Lauratown Robbers,19,4,8.5,10.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,North Richardhaven Dolphins,18,5,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,Zimmermanfort Americans,20,4,8.0,10.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,South Charles Rappers,18,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Davidbury Chiefs,South Heatherville Bulls,21,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,Port Megan Bears,22,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,South Dean Bears,19,5,11.0,13.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,Lake Leroy Rappers,19,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Davidbury Chiefs,West Stacie Mavericks,19,5,15.0,17.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Jasonbury Bears,18,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Mooreview Eagles,Lake Amanda Grizzlies,16,1,4.0,6.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,New Scott Wildcats,16,1,14.5,16.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Garrettburgh Pirates,16,1,6.0,8.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,East Albert Jacks,16,1,8.5,10.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,New Jason Dolphins,18,5,12.5,14.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Mooreview Eagles,Port Rebeccachester Hawks,16,1,10.5,12.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Port Annaberg Jacks,16,1,12.5,14.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Vanessamouth Dolphins,17,1,10.0,12.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Port Justin Sabres,16,5,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Mooreview Eagles,West Lauratown Robbers,17,1,4.0,6.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,North Richardhaven Dolphins,17,1,12.0,14.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Hallside Sox,17,1,6.0,8.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Zimmermanfort Americans,17,1,14.0,16.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,South Charles Rappers,17,1,8.0,10.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,South Heatherville Bulls,18,1,6.5,8.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Mooreview Eagles,Mullinsburgh Jacks,17,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Mooreview Eagles,South Dean Bears,17,5,11.0,13.0,2024,Platinum League,Johnsonmouth Hub Field #3
+Mooreview Eagles,Lake Leroy Rappers,17,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #3
+Mooreview Eagles,West Stacie Mavericks,18,1,4.0,6.0,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,Lake Amanda Grizzlies,16,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Jasonbury Bears,New Scott Wildcats,19,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Jasonbury Bears,Port Annaberg Jacks,20,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,Port Justin Sabres,21,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,West Lauratown Robbers,22,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,North Richardhaven Dolphins,23,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,Hallside Sox,24,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,Zimmermanfort Americans,25,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,Mullinsburgh Jacks,26,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Jasonbury Bears,South Dean Bears,27,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Lake Amanda Grizzlies,New Scott Wildcats,17,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Lake Amanda Grizzlies,Garrettburgh Pirates,16,5,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Lake Amanda Grizzlies,East Albert Jacks,18,5,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Lake Amanda Grizzlies,New Jason Dolphins,19,5,12.5,14.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,Port Rebeccachester Hawks,16,1,6.0,8.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,Port Annaberg Jacks,17,1,4.0,6.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,Port Justin Sabres,17,7,0.5,2.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,West Lauratown Robbers,17,1,6.0,8.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,North Richardhaven Dolphins,18,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Lake Amanda Grizzlies,Hallside Sox,18,1,4.5,6.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,Zimmermanfort Americans,16,7,1.0,3.0,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,South Charles Rappers,17,5,15.0,17.0,2024,Platinum League,Johnsonmouth Hub Field #3
+Lake Amanda Grizzlies,South Heatherville Bulls,19,1,6.5,8.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Lake Amanda Grizzlies,Mullinsburgh Jacks,19,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Lake Amanda Grizzlies,South Dean Bears,18,5,14.5,16.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Lake Amanda Grizzlies,Lake Leroy Rappers,19,5,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Lake Amanda Grizzlies,West Stacie Mavericks,17,7,2.5,4.5,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,Garrettburgh Pirates,18,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,East Albert Jacks,16,1,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Scott Wildcats,Port Rebeccachester Hawks,17,1,14.5,16.5,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,Port Annaberg Jacks,16,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #3
+New Scott Wildcats,Vanessamouth Dolphins,17,1,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Scott Wildcats,Port Justin Sabres,17,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,West Lauratown Robbers,18,1,14.5,16.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Scott Wildcats,North Richardhaven Dolphins,18,1,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Scott Wildcats,Hallside Sox,19,1,14.5,16.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Scott Wildcats,Zimmermanfort Americans,19,4,8.0,10.0,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,South Charles Rappers,19,1,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Scott Wildcats,South Heatherville Bulls,20,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,Mullinsburgh Jacks,20,1,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Scott Wildcats,Port Megan Bears,21,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,South Dean Bears,20,2,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #2
+New Scott Wildcats,Lake Leroy Rappers,22,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Garrettburgh Pirates,East Albert Jacks,16,5,11.5,13.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,New Jason Dolphins,20,5,12.5,14.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Garrettburgh Pirates,Port Rebeccachester Hawks,16,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Garrettburgh Pirates,Port Annaberg Jacks,17,1,6.0,8.0,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,Port Justin Sabres,19,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,West Lauratown Robbers,18,1,4.5,6.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,North Richardhaven Dolphins,19,5,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #2
+Garrettburgh Pirates,Hallside Sox,19,1,4.5,6.5,2024,Platinum League,Johnsonmouth Hub Field #1
+Garrettburgh Pirates,Zimmermanfort Americans,21,4,8.0,10.0,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,South Charles Rappers,19,5,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,South Heatherville Bulls,22,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,Port Megan Bears,20,4,7.5,9.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,South Dean Bears,19,5,13.0,15.0,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,Lake Leroy Rappers,18,5,16.5,18.5,2024,Platinum League,Johnsonmouth Hub Field #3
+Garrettburgh Pirates,West Stacie Mavericks,20,1,4.5,6.5,2024,Platinum League,Johnsonmouth Hub Field #1
+East Albert Jacks,New Jason Dolphins,18,3,2.0,4.0,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,Port Rebeccachester Hawks,16,1,12.5,14.5,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,Port Annaberg Jacks,16,1,10.5,12.5,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,Vanessamouth Dolphins,16,1,14.5,16.5,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,Port Justin Sabres,17,3,2.0,4.0,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,West Lauratown Robbers,17,1,8.5,10.5,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,North Richardhaven Dolphins,17,1,14.0,16.0,2024,Platinum League,Johnsonmouth Hub Field #3
+East Albert Jacks,Hallside Sox,17,1,10.5,12.5,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,Zimmermanfort Americans,18,1,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #1
+East Albert Jacks,South Charles Rappers,17,1,16.0,18.0,2024,Platinum League,Johnsonmouth Hub Field #3
+East Albert Jacks,Mullinsburgh Jacks,17,1,18.0,20.0,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,South Dean Bears,17,3,4.0,6.0,2024,Platinum League,Johnsonmouth Hub Field #2
+East Albert Jacks,Lake Leroy Rappers,20,5,9.5,11.5,2024,Platinum League,Johnsonmouth Hub Field #1
+East Albert Jacks,West Stacie Mavericks,19,1,8.5,10.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Jason Dolphins,Port Rebeccachester Hawks,16,5,13.5,15.5,2024,Platinum League,Johnsonmouth Hub Field #3
+New Jason Dolphins,Port Annaberg Jacks,21,5,12.5,14.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Jason Dolphins,Port Justin Sabres,16,3,2.0,4.0,2024,Platinum League,Johnsonmouth Hub Field #2
+New Jason Dolphins,West Lauratown Robbers,16,3,4.0,6.0,2024,Platinum League,Johnsonmouth Hub Field #2
+New Jason Dolphins,Hallside Sox,18,3,4.0,6.0,2024,Platinum League,Johnsonmouth Hub Field #2
+New Jason Dolphins,South Charles Rappers,22,5,12.5,14.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Jason Dolphins,Mullinsburgh Jacks,20,3,3.5,5.5,2024,Platinum League,Johnsonmouth Hub Field #1
+New Anthony Bears,Port Danielstad Rappers,13,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,South Stephen Vikings,13,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Mcconnellbury Hawks,13,1,12.5,14.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Port Dannystad Pirates,13,1,14.5,16.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Porterchester Hornets,13,7,2.5,4.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Ashleyborough Robbers,14,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Port Donald Hawks,14,1,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Jessicaville Mavericks,14,1,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,New Franciscoport Pirates,14,7,2.5,4.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Suttonfort Chargers,15,7,2.5,4.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,West Jonathanburgh Dolphins,15,1,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Whiteberg Pirates,15,1,12.0,14.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,North Cynthiabury Chargers,14,1,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Jacksonborough Sox,16,7,2.5,4.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Anthony Bears,East Jaimeville Eagles,15,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Torresbury Bears,17,7,2.5,4.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Anthony Bears,New Richard Hornets,14,1,19.0,21.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,Serranoland Pirates,15,1,14.0,16.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,North Antonio Bobcats,15,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Anthony Bears,North Stacymouth Hornets,16,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Anthony Bears,Wilsonchester Westerners,16,1,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Anthony Bears,Kevintown Bears,16,1,14.0,16.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Anthony Bears,Andrewbury Bulls,16,1,17.5,19.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Anthony Bears,West Pamelaton Wildcats,17,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Anthony Bears,East Julia Bucaneers,18,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Anthony Bears,East Heather Mavericks,18,1,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,South Stephen Vikings,13,5,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Mcconnellbury Hawks,13,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Mariastad Bears,14,5,11.0,13.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Port Dannystad Pirates,13,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Porterchester Hornets,13,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Ashleyborough Robbers,15,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Johnsonburgh Vikings,20,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,Port Donald Hawks,13,7,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,Jessicaville Mavericks,14,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,New Franciscoport Pirates,14,5,13.0,15.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Suttonfort Chargers,14,5,15.0,17.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,West Jonathanburgh Dolphins,15,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Whiteberg Pirates,14,7,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,North Cynthiabury Chargers,15,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Jacksonborough Sox,15,7,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,East Jaimeville Eagles,15,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,Torresbury Bears,18,7,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,New Richard Hornets,15,1,19.0,21.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,Serranoland Pirates,16,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Danielstad Rappers,North Antonio Bobcats,17,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Danielstad Rappers,North Stacymouth Hornets,18,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,Wilsonchester Westerners,19,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,Kevintown Bears,16,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Danielstad Rappers,Andrewbury Bulls,20,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Danielstad Rappers,West Pamelaton Wildcats,19,7,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,East Julia Bucaneers,20,7,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Danielstad Rappers,East Heather Mavericks,19,5,14.5,16.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,Mcconnellbury Hawks,13,1,14.5,16.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,South Amanda Hornets,13,1,5.5,7.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,Port Dannystad Pirates,13,1,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,Porterchester Hornets,13,1,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,Ashleyborough Robbers,13,4,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,Port Donald Hawks,13,1,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,Jessicaville Mavericks,14,1,5.5,7.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,Suttonfort Chargers,15,5,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,New Jeffrey Pirates,15,1,5.5,7.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,West Jonathanburgh Dolphins,14,1,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,Whiteberg Pirates,14,1,12.0,14.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,North Cynthiabury Chargers,14,1,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,Jacksonborough Sox,14,4,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,East Jaimeville Eagles,14,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,New Richard Hornets,15,4,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,Serranoland Pirates,14,1,14.0,16.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,North Antonio Bobcats,16,4,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Stephen Vikings,North Stacymouth Hornets,15,1,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Stephen Vikings,Wilsonchester Westerners,15,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,Kevintown Bears,14,5,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,West Pamelaton Wildcats,15,1,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Stephen Vikings,East Julia Bucaneers,16,1,5.5,7.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Stephen Vikings,East Heather Mavericks,15,1,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,South Amanda Hornets,13,4,8.0,10.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,Mariastad Bears,15,5,11.0,13.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,Port Dannystad Pirates,13,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,Porterchester Hornets,13,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mcconnellbury Hawks,Ashleyborough Robbers,14,4,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,Johnsonburgh Vikings,14,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,Port Donald Hawks,13,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mcconnellbury Hawks,Jessicaville Mavericks,13,1,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,New Franciscoport Pirates,13,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,North David Dolphins,14,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mcconnellbury Hawks,Suttonfort Chargers,13,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,West Jonathanburgh Dolphins,14,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mcconnellbury Hawks,Whiteberg Pirates,14,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,North Cynthiabury Chargers,14,1,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,Jacksonborough Sox,15,4,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,East Jaimeville Eagles,14,1,12.5,14.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,Torresbury Bears,15,5,13.0,15.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,New Richard Hornets,15,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mcconnellbury Hawks,Serranoland Pirates,14,1,17.5,19.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,North Antonio Bobcats,16,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,North Stacymouth Hornets,14,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,Wilsonchester Westerners,15,1,12.5,14.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,Kevintown Bears,15,1,14.5,16.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,Andrewbury Bulls,15,1,17.5,19.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,West Pamelaton Wildcats,17,1,12.5,14.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mcconnellbury Hawks,East Julia Bucaneers,16,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mcconnellbury Hawks,East Heather Mavericks,14,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,Mariastad Bears,13,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Amanda Hornets,Port Dannystad Pirates,14,1,5.0,7.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Amanda Hornets,Porterchester Hornets,13,1,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Amanda Hornets,Ashleyborough Robbers,14,1,7.0,9.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Amanda Hornets,Jessicaville Mavericks,15,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+South Amanda Hornets,New Jeffrey Pirates,16,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Amanda Hornets,West Jonathanburgh Dolphins,14,4,8.0,10.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,North Cynthiabury Chargers,15,1,5.5,7.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Amanda Hornets,Jacksonborough Sox,17,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,East Jaimeville Eagles,15,1,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Amanda Hornets,New Richard Hornets,17,4,8.0,10.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,Serranoland Pirates,16,1,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,North Antonio Bobcats,15,4,8.0,10.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,North Stacymouth Hornets,18,1,6.5,8.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+South Amanda Hornets,Wilsonchester Westerners,18,1,8.5,10.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,West Pamelaton Wildcats,18,4,9.0,11.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+South Amanda Hornets,East Julia Bucaneers,19,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mariastad Bears,Port Dannystad Pirates,15,1,5.0,7.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mariastad Bears,Porterchester Hornets,13,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,Port Donald Hawks,13,5,11.0,13.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mariastad Bears,Jessicaville Mavericks,13,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,New Franciscoport Pirates,14,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,New Jeffrey Pirates,14,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,Whiteberg Pirates,20,5,11.0,13.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mariastad Bears,North Cynthiabury Chargers,14,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,Jacksonborough Sox,16,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mariastad Bears,East Jaimeville Eagles,19,1,4.5,6.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mariastad Bears,Torresbury Bears,21,5,11.0,13.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mariastad Bears,New Richard Hornets,15,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,North Stacymouth Hornets,20,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mariastad Bears,Wilsonchester Westerners,15,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,Kevintown Bears,22,5,11.0,13.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Mariastad Bears,Andrewbury Bulls,20,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Mariastad Bears,West Pamelaton Wildcats,16,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,East Julia Bucaneers,17,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Mariastad Bears,East Heather Mavericks,21,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,Porterchester Hornets,13,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,Ashleyborough Robbers,13,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,Johnsonburgh Vikings,15,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Port Donald Hawks,13,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Jessicaville Mavericks,13,1,5.0,7.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,New Franciscoport Pirates,14,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Suttonfort Chargers,14,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,New Jeffrey Pirates,18,1,6.5,8.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,West Jonathanburgh Dolphins,13,4,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Whiteberg Pirates,13,1,12.0,14.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,North Cynthiabury Chargers,14,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Jacksonborough Sox,19,1,5.5,7.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,East Jaimeville Eagles,14,1,7.0,9.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Torresbury Bears,20,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,Serranoland Pirates,15,1,7.0,9.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,North Stacymouth Hornets,15,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Wilsonchester Westerners,14,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Kevintown Bears,15,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Dannystad Pirates,Andrewbury Bulls,21,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Dannystad Pirates,West Pamelaton Wildcats,16,1,8.0,10.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,East Julia Bucaneers,19,1,7.5,9.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Dannystad Pirates,East Heather Mavericks,15,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Ashleyborough Robbers,18,1,10.5,12.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Johnsonburgh Vikings,21,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Port Donald Hawks,14,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,Jessicaville Mavericks,13,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,New Franciscoport Pirates,15,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,North David Dolphins,14,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,Suttonfort Chargers,14,7,1.0,3.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,New Jeffrey Pirates,19,1,6.5,8.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,West Jonathanburgh Dolphins,14,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,Whiteberg Pirates,15,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,North Cynthiabury Chargers,15,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Jacksonborough Sox,18,7,1.0,3.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,East Jaimeville Eagles,17,1,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Torresbury Bears,15,7,1.0,3.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,New Richard Hornets,17,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Serranoland Pirates,15,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Porterchester Hornets,North Antonio Bobcats,18,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,North Stacymouth Hornets,18,1,12.5,14.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Porterchester Hornets,Wilsonchester Westerners,19,1,8.5,10.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Kevintown Bears,19,5,15.0,17.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,Andrewbury Bulls,21,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,West Pamelaton Wildcats,19,1,10.5,12.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Porterchester Hornets,East Julia Bucaneers,18,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Porterchester Hornets,East Heather Mavericks,20,5,13.0,15.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Ashleyborough Robbers,Johnsonburgh Vikings,22,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Ashleyborough Robbers,Jessicaville Mavericks,13,1,7.0,9.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Ashleyborough Robbers,New Jeffrey Pirates,20,1,6.0,8.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Ashleyborough Robbers,North Cynthiabury Chargers,13,1,9.0,11.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Ashleyborough Robbers,Jacksonborough Sox,21,1,6.0,8.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Ashleyborough Robbers,East Jaimeville Eagles,19,1,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Ashleyborough Robbers,Serranoland Pirates,20,1,8.0,10.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Ashleyborough Robbers,North Stacymouth Hornets,20,1,10.0,12.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Ashleyborough Robbers,Wilsonchester Westerners,21,1,8.0,10.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Ashleyborough Robbers,West Pamelaton Wildcats,21,1,10.0,12.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Ashleyborough Robbers,East Julia Bucaneers,22,1,6.0,8.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Donald Hawks,Jessicaville Mavericks,13,1,18.5,20.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Donald Hawks,New Franciscoport Pirates,13,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Donald Hawks,North David Dolphins,15,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,Suttonfort Chargers,13,5,13.0,15.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,West Jonathanburgh Dolphins,16,1,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,Whiteberg Pirates,14,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,North Cynthiabury Chargers,15,1,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Donald Hawks,Jacksonborough Sox,19,7,1.0,3.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Donald Hawks,East Jaimeville Eagles,20,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Donald Hawks,Torresbury Bears,20,7,1.0,3.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Donald Hawks,New Richard Hornets,16,1,19.0,21.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Donald Hawks,Serranoland Pirates,14,1,19.5,21.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,North Antonio Bobcats,18,1,18.0,20.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,North Stacymouth Hornets,15,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,Wilsonchester Westerners,17,1,18.5,20.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Port Donald Hawks,Kevintown Bears,15,1,19.5,21.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,Andrewbury Bulls,19,1,17.5,19.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,West Pamelaton Wildcats,18,7,1.0,3.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Port Donald Hawks,East Julia Bucaneers,19,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Port Donald Hawks,East Heather Mavericks,20,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Jessicaville Mavericks,New Franciscoport Pirates,21,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Jessicaville Mavericks,North David Dolphins,19,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Jessicaville Mavericks,Suttonfort Chargers,21,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,New Jeffrey Pirates,14,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Jessicaville Mavericks,West Jonathanburgh Dolphins,18,1,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,Whiteberg Pirates,18,1,12.5,14.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Jessicaville Mavericks,North Cynthiabury Chargers,13,1,14.0,16.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+Jessicaville Mavericks,Jacksonborough Sox,20,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Jessicaville Mavericks,East Jaimeville Eagles,19,1,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,Torresbury Bears,22,5,9.5,11.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Jessicaville Mavericks,New Richard Hornets,18,1,19.0,21.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Jessicaville Mavericks,Serranoland Pirates,19,1,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,North Antonio Bobcats,16,1,19.5,21.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,North Stacymouth Hornets,19,1,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,Wilsonchester Westerners,14,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,Kevintown Bears,19,1,18.5,20.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Jessicaville Mavericks,Andrewbury Bulls,21,1,17.5,19.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Jessicaville Mavericks,West Pamelaton Wildcats,15,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,East Julia Bucaneers,16,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Jessicaville Mavericks,East Heather Mavericks,20,1,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Franciscoport Pirates,Suttonfort Chargers,13,7,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Franciscoport Pirates,West Jonathanburgh Dolphins,20,5,15.0,17.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Franciscoport Pirates,Whiteberg Pirates,19,7,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Franciscoport Pirates,North Cynthiabury Chargers,21,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Franciscoport Pirates,Jacksonborough Sox,20,7,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Franciscoport Pirates,East Jaimeville Eagles,22,5,11.5,13.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Franciscoport Pirates,Torresbury Bears,21,7,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Franciscoport Pirates,New Richard Hornets,22,2,16.5,18.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Franciscoport Pirates,North Antonio Bobcats,22,7,2.5,4.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Franciscoport Pirates,North Stacymouth Hornets,22,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+North David Dolphins,West Jonathanburgh Dolphins,13,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+North David Dolphins,Whiteberg Pirates,13,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+North David Dolphins,New Richard Hornets,20,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+North David Dolphins,Serranoland Pirates,21,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+North David Dolphins,North Antonio Bobcats,21,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+North David Dolphins,East Julia Bucaneers,22,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #1
+Suttonfort Chargers,West Jonathanburgh Dolphins,22,5,13.5,15.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Suttonfort Chargers,Whiteberg Pirates,21,7,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Suttonfort Chargers,North Cynthiabury Chargers,20,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+Suttonfort Chargers,Jacksonborough Sox,22,7,1.0,3.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+Suttonfort Chargers,East Jaimeville Eagles,21,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Suttonfort Chargers,Torresbury Bears,16,7,0.5,2.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Suttonfort Chargers,North Stacymouth Hornets,15,7,0.5,2.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+Suttonfort Chargers,Kevintown Bears,17,7,0.5,2.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+Suttonfort Chargers,East Heather Mavericks,22,5,15.5,17.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Jeffrey Pirates,North Cynthiabury Chargers,13,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+New Jeffrey Pirates,Jacksonborough Sox,15,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Jeffrey Pirates,East Jaimeville Eagles,21,1,4.5,6.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Jeffrey Pirates,Serranoland Pirates,21,1,6.5,8.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Jeffrey Pirates,North Stacymouth Hornets,22,1,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #1
+New Jeffrey Pirates,Wilsonchester Westerners,13,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Jeffrey Pirates,West Pamelaton Wildcats,17,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+New Jeffrey Pirates,East Julia Bucaneers,15,1,1.5,3.5,2024,Obsidian League,Johnsonmouth Hub Field #3
+West Jonathanburgh Dolphins,Whiteberg Pirates,20,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+West Jonathanburgh Dolphins,North Cynthiabury Chargers,20,1,16.0,18.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+West Jonathanburgh Dolphins,New Richard Hornets,21,3,3.5,5.5,2024,Obsidian League,Johnsonmouth Hub Field #2
+West Jonathanburgh Dolphins,Serranoland Pirates,20,3,4.0,6.0,2024,Obsidian League,Johnsonmouth Hub Field #3
+West Jonathanburgh Dolphins,North Antonio Bobcats,22,3,2.0,4.0,2024,Obsidian League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,Port Michelle Rappers,18,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,Karenburgh Chiefs,18,1,14.5,16.5,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,North Nicholas Warriors,19,1,10.5,12.5,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,Henryfort Jacks,23,5,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Judymouth Bulls,19,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,West Teresaport Bears,20,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,West Amanda Mavericks,23,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Cherylburgh Celtics,19,1,14.5,16.5,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,West Susan Eagles,20,1,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,New Markborough Bobcats,21,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,South Jonathan Eagles,20,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,Jenningsland Eagles,21,1,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,Port Juliemouth Sabres,20,1,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #3
+East Nicoleshire Jacks,North Donnafort Grizzlies,20,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,Scottton Celtics,20,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,Jonesfurt Pirates,22,1,4.5,6.5,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,East Gregoryburgh Westerners,21,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,North Josephmouth Robbers,24,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Rebeccafurt Sox,24,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Karenchester Bears,21,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,North Alexanderview Jacks,21,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Brandonborough Sox,21,1,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,North Kevinmouth Bobcats,22,1,7.0,9.0,2024,Diamond League,Johnsonmouth Hub Field #2
+East Nicoleshire Jacks,Perezside Bucaneers,22,1,10.5,12.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Port David Dolphins,23,1,4.5,6.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,North Wandaberg Chargers,25,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,North Wendy Americans,22,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Benjaminland Chiefs,23,1,7.0,9.0,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,New Leonard Sabres,22,1,14.5,16.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Andresburgh Dolphins,22,1,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Mandyview Bucaneers,23,1,9.0,11.0,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,East Brianberg Wildcats,23,1,11.0,13.0,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Jeanettechester Hornets,23,1,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Wardborough Celtics,23,1,13.0,15.0,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Patrickberg Rappers,24,1,4.5,6.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Port Karenmouth Americans,24,1,6.5,8.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,West Kelly Hawks,24,1,8.5,10.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,East Shelby Raptors,24,1,10.5,12.5,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Jakemouth Pirates,24,1,15.0,17.0,2024,Diamond League,Johnsonmouth Hub Field #1
+East Nicoleshire Jacks,Kevinshire Raptors,24,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Karenburgh Chiefs,13,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,North Nicholas Warriors,19,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,Henryfort Jacks,21,7,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,Judymouth Bulls,20,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,West Teresaport Bears,22,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,West Amanda Mavericks,23,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Cherylburgh Celtics,20,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,West Susan Eagles,20,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,New Markborough Bobcats,22,1,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,South Jonathan Eagles,14,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,Jenningsland Eagles,18,1,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Port Juliemouth Sabres,21,5,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,North Donnafort Grizzlies,21,1,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Davidton Americans,22,7,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,Scottton Celtics,16,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,Jonesfurt Pirates,17,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,East Gregoryburgh Westerners,21,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,North Josephmouth Robbers,24,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Karenchester Bears,21,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,North Alexanderview Jacks,21,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,Brandonborough Sox,22,1,15.0,17.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,North Kevinmouth Bobcats,22,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Morrisland Vikings,23,7,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Perezside Bucaneers,22,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Port David Dolphins,19,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,North Wendy Americans,22,5,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Ortizchester Vikings,25,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Benjaminland Chiefs,23,1,9.0,11.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,New Leonard Sabres,23,1,6.5,8.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Andresburgh Dolphins,23,1,11.0,13.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Mandyview Bucaneers,20,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,East Brianberg Wildcats,23,1,13.0,15.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Jeanettechester Hornets,23,5,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Port Steven Raptors,24,7,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Wardborough Celtics,23,1,15.0,17.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Patrickberg Rappers,22,1,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Port Michelle Rappers,Port Karenmouth Americans,23,1,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Port Monica Americans,26,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,West Kelly Hawks,23,1,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,East Shelby Raptors,24,1,8.5,10.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Port Michelle Rappers,Jakemouth Pirates,25,1,15.0,17.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Port Michelle Rappers,Kevinshire Raptors,24,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Karenburgh Chiefs,North Nicholas Warriors,21,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Henryfort Jacks,13,1,18.5,20.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Judymouth Bulls,21,1,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,West Teresaport Bears,13,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,West Amanda Mavericks,24,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Cherylburgh Celtics,21,1,17.5,19.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,West Susan Eagles,14,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,New Markborough Bobcats,23,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,South Jonathan Eagles,18,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Karenburgh Chiefs,Jenningsland Eagles,19,1,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Port Juliemouth Sabres,20,1,18.0,20.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,North Donnafort Grizzlies,22,1,8.0,10.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Karenburgh Chiefs,Davidton Americans,22,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Scottton Celtics,20,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Jonesfurt Pirates,21,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,East Gregoryburgh Westerners,22,1,10.0,12.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,North Josephmouth Robbers,23,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Rebeccafurt Sox,22,1,18.5,20.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Karenburgh Chiefs,Karenchester Bears,22,1,12.0,14.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,North Alexanderview Jacks,22,1,14.0,16.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Brandonborough Sox,23,1,15.0,17.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,North Kevinmouth Bobcats,22,1,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Perezside Bucaneers,23,1,10.5,12.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Port David Dolphins,21,1,3.5,5.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,North Wandaberg Chargers,23,5,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,North Wendy Americans,23,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Ortizchester Vikings,26,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Benjaminland Chiefs,24,1,7.0,9.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,New Leonard Sabres,23,1,8.5,10.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Andresburgh Dolphins,23,1,17.0,19.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Mandyview Bucaneers,22,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Karenburgh Chiefs,East Brianberg Wildcats,23,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Jeanettechester Hornets,24,1,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Wardborough Celtics,24,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Patrickberg Rappers,23,1,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Karenburgh Chiefs,Port Karenmouth Americans,24,1,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Port Monica Americans,24,1,17.5,19.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Karenburgh Chiefs,West Kelly Hawks,24,1,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,East Shelby Raptors,25,1,8.5,10.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Karenburgh Chiefs,Jakemouth Pirates,25,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Karenburgh Chiefs,Kevinshire Raptors,24,1,9.0,11.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Henryfort Jacks,13,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Judymouth Bulls,24,1,10.5,12.5,2024,Diamond League,Johnsonmouth Hub Field #2
+North Nicholas Warriors,West Amanda Mavericks,21,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Cherylburgh Celtics,21,1,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,West Susan Eagles,21,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,South Jonathan Eagles,21,1,17.5,19.5,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Jenningsland Eagles,22,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Port Juliemouth Sabres,22,1,17.0,19.0,2024,Diamond League,Johnsonmouth Hub Field #2
+North Nicholas Warriors,North Donnafort Grizzlies,24,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Davidton Americans,22,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Scottton Celtics,21,5,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Jonesfurt Pirates,22,5,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,East Gregoryburgh Westerners,25,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+North Nicholas Warriors,Rebeccafurt Sox,23,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Karenchester Bears,24,1,14.5,16.5,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,North Alexanderview Jacks,23,1,17.0,19.0,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,Brandonborough Sox,24,1,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+North Nicholas Warriors,North Kevinmouth Bobcats,25,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Perezside Bucaneers,23,5,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #2
+North Nicholas Warriors,Port David Dolphins,23,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,West Jennifer Pirates,24,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,North Wendy Americans,24,5,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Benjaminland Chiefs,25,5,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,New Leonard Sabres,24,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Andresburgh Dolphins,25,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #2
+North Nicholas Warriors,Mandyview Bucaneers,25,1,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #2
+North Nicholas Warriors,East Brianberg Wildcats,25,1,17.5,19.5,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Jeanettechester Hornets,25,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Port Steven Raptors,25,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Wardborough Celtics,26,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Port Karenmouth Americans,26,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Port Monica Americans,26,1,17.5,19.5,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,West Kelly Hawks,26,5,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,East Shelby Raptors,26,1,14.5,16.5,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Jakemouth Pirates,26,3,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #1
+North Nicholas Warriors,Kevinshire Raptors,27,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Judymouth Bulls,23,7,1.0,3.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,West Teresaport Bears,23,4,8.5,10.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Henryfort Jacks,West Amanda Mavericks,22,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,Cherylburgh Celtics,24,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Henryfort Jacks,West Susan Eagles,23,3,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,New Markborough Bobcats,13,7,0.5,2.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,South Jonathan Eagles,19,1,19.5,21.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Henryfort Jacks,Jenningsland Eagles,24,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,Port Juliemouth Sabres,21,1,19.5,21.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Davidton Americans,14,7,0.5,2.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Jonesfurt Pirates,24,5,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,East Gregoryburgh Westerners,24,7,1.0,3.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,North Josephmouth Robbers,25,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Henryfort Jacks,Rebeccafurt Sox,20,1,18.5,20.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Karenchester Bears,25,7,1.0,3.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,North Alexanderview Jacks,22,1,18.0,20.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Henryfort Jacks,North Kevinmouth Bobcats,23,1,18.0,20.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Morrisland Vikings,26,7,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Perezside Bucaneers,25,5,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Port David Dolphins,24,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,West Jennifer Pirates,25,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,North Wandaberg Chargers,26,5,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,North Wendy Americans,26,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Henryfort Jacks,Ortizchester Vikings,27,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Benjaminland Chiefs,27,5,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,New Leonard Sabres,25,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,Andresburgh Dolphins,22,7,0.5,2.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Mandyview Bucaneers,24,1,18.0,20.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,East Brianberg Wildcats,25,1,19.5,21.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Jeanettechester Hornets,26,1,18.0,20.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,Port Steven Raptors,26,3,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Henryfort Jacks,Port Karenmouth Americans,27,3,3.5,5.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,West Kelly Hawks,27,7,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,East Shelby Raptors,27,1,18.0,20.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Henryfort Jacks,Jakemouth Pirates,26,7,0.5,2.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Judymouth Bulls,West Teresaport Bears,24,1,6.0,8.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Cherylburgh Celtics,25,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,West Susan Eagles,25,1,6.5,8.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Judymouth Bulls,New Markborough Bobcats,24,7,1.0,3.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Judymouth Bulls,South Jonathan Eagles,25,1,8.5,10.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Judymouth Bulls,Jenningsland Eagles,26,1,6.0,8.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Judymouth Bulls,Port Juliemouth Sabres,25,1,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Judymouth Bulls,North Donnafort Grizzlies,25,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Judymouth Bulls,Davidton Americans,25,7,1.0,3.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Scottton Celtics,26,1,8.0,10.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Jonesfurt Pirates,27,1,6.0,8.0,2024,Diamond League,Johnsonmouth Hub Field #1
+Judymouth Bulls,East Gregoryburgh Westerners,26,1,10.0,12.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Karenchester Bears,26,1,12.0,14.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,North Alexanderview Jacks,26,1,14.0,16.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Brandonborough Sox,26,1,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,North Kevinmouth Bobcats,27,1,8.0,10.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Morrisland Vikings,27,7,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Perezside Bucaneers,27,1,10.5,12.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,North Wendy Americans,27,1,12.5,14.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Judymouth Bulls,New Leonard Sabres,27,1,14.5,16.5,2024,Diamond League,Johnsonmouth Hub Field #1
+Judymouth Bulls,Andresburgh Dolphins,26,7,1.0,3.0,2024,Diamond League,Johnsonmouth Hub Field #2
+Judymouth Bulls,Mandyview Bucaneers,27,1,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,Cherylburgh Celtics,27,4,8.5,10.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,West Susan Eagles,23,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Teresaport Bears,New Markborough Bobcats,25,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,South Jonathan Eagles,26,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,Jenningsland Eagles,25,1,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,Port Juliemouth Sabres,24,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,North Donnafort Grizzlies,26,1,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Teresaport Bears,Davidton Americans,25,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,Scottton Celtics,27,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,Jonesfurt Pirates,27,1,8.0,10.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Teresaport Bears,North Wendy Americans,26,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Teresaport Bears,Andresburgh Dolphins,27,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,Cherylburgh Celtics,24,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,West Susan Eagles,24,3,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,New Markborough Bobcats,23,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,South Jonathan Eagles,27,4,7.5,9.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,Jenningsland Eagles,23,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,Port Juliemouth Sabres,24,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,Davidton Americans,23,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,Jonesfurt Pirates,25,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,North Josephmouth Robbers,25,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,Rebeccafurt Sox,25,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,North Alexanderview Jacks,26,3,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,Perezside Bucaneers,26,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #1
+West Amanda Mavericks,Port David Dolphins,25,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Amanda Mavericks,West Jennifer Pirates,27,3,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,North Wandaberg Chargers,27,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #1
+West Amanda Mavericks,Benjaminland Chiefs,26,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,New Leonard Sabres,27,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #2
+West Amanda Mavericks,Mandyview Bucaneers,27,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Cherylburgh Celtics,West Susan Eagles,23,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Cherylburgh Celtics,New Markborough Bobcats,25,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Cherylburgh Celtics,South Jonathan Eagles,25,1,17.5,19.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Cherylburgh Celtics,Jenningsland Eagles,26,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Cherylburgh Celtics,Port Juliemouth Sabres,26,1,16.0,18.0,2024,Diamond League,Johnsonmouth Hub Field #3
+Cherylburgh Celtics,North Donnafort Grizzlies,26,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Cherylburgh Celtics,Scottton Celtics,26,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Cherylburgh Celtics,Jonesfurt Pirates,27,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Cherylburgh Celtics,East Gregoryburgh Westerners,27,1,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Cherylburgh Celtics,Karenchester Bears,27,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #2
+Cherylburgh Celtics,North Alexanderview Jacks,27,1,15.5,17.5,2024,Diamond League,Johnsonmouth Hub Field #3
+Cherylburgh Celtics,North Kevinmouth Bobcats,27,1,17.5,19.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,New Markborough Bobcats,24,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,South Jonathan Eagles,25,1,10.5,12.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,Jenningsland Eagles,22,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,Port Juliemouth Sabres,25,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,North Donnafort Grizzlies,26,1,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,Davidton Americans,24,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,Scottton Celtics,27,1,13.5,15.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,Jonesfurt Pirates,26,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,North Josephmouth Robbers,27,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,Rebeccafurt Sox,27,3,4.0,6.0,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,North Wendy Americans,27,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+West Susan Eagles,Andresburgh Dolphins,26,2,16.5,18.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,South Jonathan Eagles,23,7,2.0,4.0,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,Jenningsland Eagles,23,5,9.5,11.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,Port Juliemouth Sabres,25,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,North Donnafort Grizzlies,26,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,Davidton Americans,26,7,0.5,2.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,Jonesfurt Pirates,26,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,East Gregoryburgh Westerners,25,7,1.0,3.0,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,North Josephmouth Robbers,27,5,11.5,13.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,Karenchester Bears,26,7,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,Port David Dolphins,27,1,5.5,7.5,2024,Diamond League,Johnsonmouth Hub Field #3
+New Markborough Bobcats,Andresburgh Dolphins,27,7,0.5,2.5,2024,Diamond League,Johnsonmouth Hub Field #1
+New Markborough Bobcats,Port Steven Raptors,27,7,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #3
+South Jonathan Eagles,Jenningsland Eagles,22,1,2.5,4.5,2024,Diamond League,Johnsonmouth Hub Field #2
+South Jonathan Eagles,Port Juliemouth Sabres,22,1,19.0,21.0,2024,Diamond League,Johnsonmouth Hub Field #2
+South Jonathan Eagles,North Donnafort Grizzlies,24,1,3.0,5.0,2024,Diamond League,Johnsonmouth Hub Field #3
+South Jonathan Eagles,Scottton Celtics,19,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #2
+South Jonathan Eagles,Jonesfurt Pirates,20,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #3
+South Jonathan Eagles,East Gregoryburgh Westerners,24,1,5.0,7.0,2024,Diamond League,Johnsonmouth Hub Field #3
+South Jonathan Eagles,Rebeccafurt Sox,21,1,19.5,21.5,2024,Diamond League,Johnsonmouth Hub Field #2
+South Jonathan Eagles,North Alexanderview Jacks,26,1,18.0,20.0,2024,Diamond League,Johnsonmouth Hub Field #3
+South Jonathan Eagles,North Kevinmouth Bobcats,24,1,18.5,20.5,2024,Diamond League,Johnsonmouth Hub Field #3
+South Jonathan Eagles,Port David Dolphins,21,1,1.5,3.5,2024,Diamond League,Johnsonmouth Hub Field #3
