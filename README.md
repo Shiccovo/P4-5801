@@ -54,6 +54,32 @@ autoscheduler, it is important to follow a few guidelines. These guidelines
 are present so that the FastAPI instance may still call the scheduler.
 If you navigate to the data directory you should see nine subdirectories.
 
+## Testing for scheduler
+
+This project uses `pytest` for running automated tests. To ensure everything is working correctly, you can run the test cases provided in the `core/test/` directory.
+
+### Prerequisites
+
+- Python 3.x installed
+- `pytest` installed (`pip install pytest`)
+
+### Running Tests
+
+To run all test cases:
+
+```bash
+pytest core/test/
+```
+
+or test cases one by one
+
+```bash
+pytest core/test/<test_case>
+
+##for example
+pytest core/test/test_case1.py
+```
+
 ### Input Files
 
 Each test case directory contains three input files:
